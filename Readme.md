@@ -1,6 +1,6 @@
 # LiveUI
 
-To get started with run command
+To get started, run this command
 
 ```javascript
 docker-compose up --build --scale app=3
